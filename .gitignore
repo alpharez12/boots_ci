@@ -1,0 +1,61 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+.DS_Store
+
+application/cache/*
+!application/cache/index.html
+
+application/logs/*
+!application/logs/index.html
+
+!application/*/.htaccess
+
+composer.lock
+=======
+=======
+>>>>>>> 610b25dbe023e37b99d4a2e43d066f441c0780aa
+*/config/development
+*/logs/log-*.php
+!*/logs/index.html
+*/cache/*
+!*/cache/index.html
+!*/cache/.htaccess
+<<<<<<< HEAD
+>>>>>>> 610b25dbe023e37b99d4a2e43d066f441c0780aa
+=======
+>>>>>>> 610b25dbe023e37b99d4a2e43d066f441c0780aa
+
+user_guide_src/build/*
+user_guide_src/cilexer/build/*
+user_guide_src/cilexer/dist/*
+user_guide_src/cilexer/pycilexer.egg-info/*
+<<<<<<< HEAD
+<<<<<<< HEAD
+/vendor/
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+/tests/tests/
+/tests/results/
+=======
+=======
+>>>>>>> 610b25dbe023e37b99d4a2e43d066f441c0780aa
+
+#codeigniter 3
+application/logs/*
+!application/logs/index.html
+!application/logs/.htaccess
+/vendor/
+<<<<<<< HEAD
+>>>>>>> 610b25dbe023e37b99d4a2e43d066f441c0780aa
+=======
+>>>>>>> 610b25dbe023e37b99d4a2e43d066f441c0780aa
